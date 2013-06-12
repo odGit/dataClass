@@ -3,11 +3,11 @@ import urllib2 as urllib
 import json
 
 # See Assignment 1 instructions or README for how to get these credentials
-access_token_key = "127361574-4NzT9EG8thjoo6JbsAo4h2JQk7Bm8a5vTb93HuMc"
-access_token_secret = "eUyNEDYNL6KulrTN5vprfyfLp6z15p5lWhaZX8CdKw"
+access_token_key = "Your token Key"
+access_token_secret = "Your token secret"
 
-consumer_key = "86hZkJi6ocP4Revbcde4A"
-consumer_secret = "WQZO94FwsTVvz8VF0y7CCjmvj7Z9bnVXfJdeGNGRI"
+consumer_key = "your consumer key"
+consumer_secret = "your consumer secret"
 
 _debug = 0
 
